@@ -1,0 +1,152 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.application(_:configurationForConnecting:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift",
+      "line": 29,
+      "symbol": "AppDelegate.application(_:didDiscardSceneSessions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 11,
+      "symbol": "SceneDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 13,
+      "symbol": "SceneDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 16,
+      "symbol": "SceneDelegate.scene(_:willConnectTo:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 23,
+      "symbol": "SceneDelegate.sceneDidDisconnect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 30,
+      "symbol": "SceneDelegate.sceneDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 35,
+      "symbol": "SceneDelegate.sceneWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 40,
+      "symbol": "SceneDelegate.sceneWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift",
+      "line": 45,
+      "symbol": "SceneDelegate.sceneDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 3,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 4,
+      "symbol": "ViewController.call",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 6,
+      "symbol": "ViewController.dummyLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 7,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 23,
+      "symbol": "dummy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 24,
+      "symbol": "dummy.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 25,
+      "symbol": "dummy.name2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift",
+      "line": 26,
+      "symbol": "dummy.param()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/daffolapmac-179/Desktop/notifictionPOC"
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "9aa7d046fc61e28ab4f952e05a5cdd14"
+build_time: [1624859650, 681053000]
+inputs:
+  "/Users/daffolapmac-179/Desktop/textTospeech/textTospeech/ViewController.swift": [9223372036, 854775807]
+  "/Users/daffolapmac-179/Desktop/textTospeech/textTospeech/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/daffolapmac-179/Desktop/textTospeech/textTospeech/SceneDelegate.swift": [9223372036, 854775807]

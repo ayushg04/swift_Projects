@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "722eff76ee8e565eaedfeb7bd834042e"
+build_time: [1626346383, 327245000]
+inputs:
+  "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/ViewController.swift": [9223372036, 854775807]
+  "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/daffolapmac-179/Desktop/notifictionPOC/notifictionPOC/SceneDelegate.swift": [9223372036, 854775807]

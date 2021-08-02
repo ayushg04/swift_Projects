@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Hey, Push in your name"; ObjectID = "5Aa-B0-SkB"; */
+"5Aa-B0-SkB.placeholder" = "Введите ваше имя";
+
+/* Class = "UITextField"; placeholder = "Hey, Push in your mail id"; ObjectID = "5c7-zi-MY6"; */
+"5c7-zi-MY6.placeholder" = "Введите свой адрес электронной почты";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "IVQ-EV-mxd"; */
+"IVQ-EV-mxd.text" = "Электронный идентификатор:";
+
+/* Class = "UITextField"; placeholder = "Hey, Push in your number"; ObjectID = "MKr-mr-Mdr"; */
+"MKr-mr-Mdr.placeholder" = "Введите номер своего мобильного";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "fQg-2X-Cna"; */
+"fQg-2X-Cna.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Contact Number:"; ObjectID = "lRC-pe-8qf"; */
+"lRC-pe-8qf.text" = "Номер мобильного:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "z0e-qM-Zdo"; */
+"z0e-qM-Zdo.text" = "Имя:";
